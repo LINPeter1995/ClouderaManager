@@ -1,4 +1,4 @@
-# ClouderaManager
+# Clouderamanager
 
 | 工具                          | 類型      | 功能簡述   
 
